@@ -1,0 +1,17 @@
+This file lists the exact Python packages and versions needed to run this project.
+To install these, run: pip install -r requirements.txt
+Core scientific libraries with known stable versions to avoid conflicts
+numpy==1.26.4
+scipy==1.13.1
+astropy==6.1.0
+
+The main astronomy library for this project
+lightkurve==2.5.1
+astroquery==0.4.10
+
+For plotting and data handling
+matplotlib==3.10.6
+pandas==2.3.2
+
+For querying the SIMBAD database (in the bonus analysis)
+pyvo==1.7
