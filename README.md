@@ -32,6 +32,6 @@ To run this project on your own machine, please follow these steps.
 
 **1. Clone the Repository**
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone <https://github.com/shreeharshshinde/exoplanet-detection-by-kepler-data.git>
+cd <exoplanet-detection-by-kepler-data>
 ```
